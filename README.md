@@ -33,6 +33,19 @@ QA_profile/
 ---
 
 ## 📂 Проекты
+### 🔹 Ручное тестирование (`00_manual-testing/`)
+
+В папках — README со ссылками на Google Drive, где хранятся тест-артефакты.
+
+| Проект                                                    | Описание                                                                           | Ссылка на артефакты |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------|---------------------|
+| [Яндекс.Самокат](./00_manual_testing/README.md#самокат)   | Чек-листы, тест-кейсы, баг-репорты. Функциональное и UI-тестирование               | [Google Drive](https://drive.google.com/drive/folders/1bEW68jmWv9nF6DH5l4Et3ViClBq1wHEZ?usp=drive_link) |
+| [Яндекс.Прилавок](./00_manual_testing/README.md#прилавок) | Тестирование API, JSON/XML                                                         | [Google Drive](https://drive.google.com/drive/folders/1NdwzqTeQ05MF5Af8Kz9IpK0jQdrjsN-j?usp=drive_link) |
+| [Яндекс.Маршруты](./00_manual_testing/README.md#маршруты) | Тестирование бизнес-логики. Кросс-браузерное и адаптивное тестирование верстки, UI | [Google Drive](https://drive.google.com/drive/folders/1UsMn43XyE7c4aBp5nbFiH4VeWdwOKm3Z?usp=drive_link) |
+| [Яндекс.Метро](./00_manual_testing/README.md#метро)       | Мобильное тестирование (интерфейс, жесты, навигация)                               | [Google Drive](https://drive.google.com/drive/folders/1gohPRCxXMJk3_sa2ztv2xBzXzZ7Sj6Qv?usp=drive_link) 
+
+
+
 
 ### 🔹 UI-тестирование (`01_ui_testing/`)
 
@@ -56,16 +69,6 @@ QA_profile/
 | [`stellar-burgers-unit`](./03_unit_testing/stellar-burgers-unit) | Дипломный проект (часть 1). Юнит-тесты классов Stellar Burgers. 100% покрытие, моки, параметризация, тестирование исключений. | Python, Pytest, Mock |
 
 
-### 🔹 Ручное тестирование (`04_manual-testing/`)
-
-В папках — README со ссылками на Google Drive, где хранятся тест-артефакты.
-
-| Проект | Описание | Ссылка на артефакты |
-|--------|----------|---------------------|
-| [Яндекс.Самокат](./04_manual_testing/README.md#самокат) | Чек-листы, тест-кейсы, баг-репорты | [Google Drive](https://drive.google.com/drive/folders/1bEW68jmWv9nF6DH5l4Et3ViClBq1wHEZ?usp=drive_linkk) |
-| [Яндекс.Прилавок](./04_manual_testing/README.md#прилавок) | Тестирование API, JSON/XML | [Google Drive](https://drive.google.com/drive/folders/1NdwzqTeQ05MF5Af8Kz9IpK0jQdrjsN-j?usp=drive_link) |
-| [Яндекс.Маршруты](./04_manual_testing/README.md#маршруты) | Тестирование бизнес-логики | [Google Drive](https://drive.google.com/drive/folders/1UsMn43XyE7c4aBp5nbFiH4VeWdwOKm3Z?usp=drive_link) |
-| [Яндекс.Метро](./04_manual_testing/README.md#метро) | Мобильное тестирование | [Google Drive](https://drive.google.com/drive/folders/1gohPRCxXMJk3_sa2ztv2xBzXzZ7Sj6Qv?usp=drive_link) 
 
 ---
 
